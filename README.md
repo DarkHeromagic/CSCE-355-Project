@@ -25,5 +25,7 @@ Then run
 	java TextSearch file
 	
 	
+compilable readme in dfa_java
+	
 
 
