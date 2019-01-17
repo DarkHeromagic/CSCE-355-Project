@@ -8,3 +8,6 @@
     javac TextSearch.java DFATable.java State.java  InputUtils.java	
 	java TextSearch file
 
+
+
+https://cse.sc.edu/~fenner/csce355/prog-proj/programming-assignment.pdf
