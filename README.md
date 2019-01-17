@@ -23,5 +23,7 @@ Then run
 3. TextSearch
     javac TextSearch.java DFATable.java State.java  InputUtils.java	
 	java TextSearch file
+	
+	
 
 
