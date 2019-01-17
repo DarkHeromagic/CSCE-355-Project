@@ -32,6 +32,8 @@ Then run
 	
 	
 compilable readme in dfa_java
-	
+
+
+[embed]https://github.com/DarkHeromagic/CSCE-355-Project/blob/master/words.pdf[/embed]
 
 
