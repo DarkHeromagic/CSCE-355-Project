@@ -1,0 +1,10 @@
+1. Simulate
+	javac SimulateDFA.java  DFATable.java State.java  InputUtils.java
+	java   SimulateDFA file1 file2
+2. Minimize
+	javac Minimization.java DFATable.java State.java  InputUtils.java
+	java Minimization file
+3. TextSearch
+    javac TextSearch.java DFATable.java State.java  InputUtils.java	
+	java TextSearch file
+
