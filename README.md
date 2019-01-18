@@ -1,5 +1,8 @@
 # CSCE-355-Project
 ------------------------------------------------------------------------------------------------------------
+A CSCE 355 Project with DFA simulations
+
+
 This project is using Java
 ------------------------------------------------------------------------------------------------------------
 SimulateDFA
@@ -18,7 +21,8 @@ ReadMe has the compilable method for naming to feed in the grading script
 ------------------------------------------------------------------------------------------------------------
 
 
-download or clone zip
+## How to use
+1. Clone/Download the repo.
 Then run 
 1. Simulate
 	javac SimulateDFA.java  DFATable.java State.java  InputUtils.java
